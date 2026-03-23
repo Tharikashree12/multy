@@ -19,4 +19,3 @@ print("division:", division(10, 5))
 print("modules:", modules(10, 5))
 print("floordivision:", floordivision(10, 5))
 print("exponent:", exponent(10, 5))
-
