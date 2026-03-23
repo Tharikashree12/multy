@@ -1,0 +1,2 @@
+text = "time management is very important in our daily life. it helps people complete their work efficiently and reduces stress. students who manage their time properly can balance studies, hobbies, and rest. good time management also improves productivity and helps achieve goals faster. therefore, everyone should develop the habit of planning their tasks and using time wisely"
+print(text.upper())
