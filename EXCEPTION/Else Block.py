@@ -7,4 +7,3 @@ except ValueError:
     print("Invalid input")
 else:
     print("No error occurred")
-    

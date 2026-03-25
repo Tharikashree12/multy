@@ -12,6 +12,5 @@ try:
         print("Fail")
 except ValueError:
     print("Invalid input")
-except Exception as e:
-    print("Error:", e)
-    
+except ValueError:
+    print("Invalid input")
